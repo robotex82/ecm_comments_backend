@@ -1,0 +1,1 @@
+//= require ecm/comments/backend/application

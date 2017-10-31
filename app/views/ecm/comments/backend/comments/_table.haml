@@ -1,0 +1,10 @@
+= table.column :commentable_type, sortable: true
+= table.column :commentable_id, sortable: true
+= table.column :homepage, sortable: true
+= table.column :name, sortable: true
+= table.column :email, sortable: true
+= table.column :created_by_ip_address, sortable: true
+= table.column :updated_by_ip_address, sortable: true
+= table.column :body, sortable: true, class: 'truncate-chars truncate-chars-30'
+= table.userstamps
+= table.timestamps

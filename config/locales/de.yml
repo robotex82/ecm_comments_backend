@@ -1,0 +1,5 @@
+de:
+  classes:
+    ecm/comments/backend/engine: Kommentare
+  routes:
+    ecm-comments-backend-engine: 'kommentare'
